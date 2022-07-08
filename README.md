@@ -20,7 +20,7 @@
 <!-- ![](https://img.shields.io/badge/Code-YOLOv3-informational?style=flat&logo=YOLOv3&color=61DAFB) -->
 
 
-- GitHub Stats
+- GitHub Stats<br>
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=singhals163)](https://github.com/singhals163)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhals163&layout=compact)](https://github.com/singhals163)
 
