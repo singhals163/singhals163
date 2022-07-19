@@ -4,9 +4,10 @@
 - I’m currently learning/working on Advanced applications of Computer Vision and DSA
 - Feel free to contact me on any of the following social media handles:<br> 
 <a href = "https://www.instagram.com/singhalshivam_16/" alt = "singhalshivam_16"><img src = "./icons/Instagram.png" height = 20, hspace = 10></a>
-<a href = "https://www.facebook.com/singhals163/" alt = "singhalshivam_16"><img src = "./icons/facebook.png" height = 20, hspace = 10></a>
-<a href = "https://www.linkedin.com/in/singhals163/" alt = "singhalshivam_16"><img src = "./icons/linkedin.png" height = 20 hspace = 10></a>
-<a href = "https://github.com/singhals163" alt = "singhalshivam_16"><img src = "./icons/github_light.png" height = 20 hspace = 10 ></a>
+<a href = "https://www.facebook.com/singhals163/" alt = "singhals163"><img src = "./icons/facebook.png" height = 20, hspace = 10></a>
+<a href = "https://www.linkedin.com/in/singhals163/" alt = "singhals163"><img src = "./icons/linkedin.png" height = 20 hspace = 10></a>
+<a href = "https://github.com/singhals163" alt = "singhals163"><img src = "./icons/github_light.png" height = 20 hspace = 10 ></a>
+
 - Technical Skills<br>
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=61DAFB)
 ![](https://img.shields.io/badge/Code-c++-informational?style=flat&logo=c++&color=brightgreen)
