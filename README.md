@@ -22,8 +22,10 @@
 
 
 - GitHub Stats<br>
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=singhals163)](https://github.com/singhals163)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhals163&layout=compact)](https://github.com/singhals163)
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=singhals163&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=singhals163&theme=dark&hide_border=true" width = 400
+</p>
 
 <!---
 singhals163/singhals163 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
